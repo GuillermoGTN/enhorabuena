@@ -1,2 +1,2 @@
 # enhorabuena
-Un blog increíble para empezar a emplear Git y Github
+Un blog💻 increíble para empezar a emplear Git y Github🤖

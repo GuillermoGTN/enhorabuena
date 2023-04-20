@@ -38,3 +38,10 @@ body
 {
    padding: 1em;
 }
+
+#footer
+{
+   background: rgb(155, 135, 135);
+   color:white;
+   text-align: center;
+}

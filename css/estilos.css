@@ -48,5 +48,14 @@ body
 #post
 {
    padding: 1em;
-   background:white;
+   background:rgb(158, 31, 31);
+
+}
+
+#footer
+{
+   background: rgb(155, 135, 135);
+   color:blueviolet;
+   text-align: center;
+   padding: 0.5em;
 }
